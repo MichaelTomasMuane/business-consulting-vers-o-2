@@ -1,6 +1,6 @@
-# Sobre o projecto template - Tema Reviews SASS BLOGGER
+# Sobre o projecto template - Tema Business Consulting Versao 2 BLOGGER
 
-O **Business Consulting Versao 2** é um tema profissional e corporativo desenvolvido pra a sac translation, tema desenvolvido para empresas de serviços de tradução, interpretação e localização de conteúdos. O projecto fornece uma experiência moderna e enovadora, com foco na conversão de clientes e demonstração dos principais serviços. Este tema é ideal para:  Empresas de tradução, agências de interpretação, profissionais freelancers de línguas, serviços de localização e consultoria linguística.
+O **Business Consulting Versao 2** é um tema profissional e corporativo desenvolvido para a sac translation, tema desenvolvido para empresas de serviços de tradução, interpretação e localização de conteúdos. O projecto fornece uma experiência moderna e enovadora, com foco na conversão de clientes e demonstração dos principais serviços. Este tema é ideal para:  Empresas de tradução, agências de interpretação, profissionais freelancers de línguas, serviços de localização e consultoria linguística.
 
 Este tema apresenta serviços de tradução com credibilidade, destacando a experiência da empresa através de testemunhos e casos de sucesso, resolvendo o problema de templates genericos de profissionais freelancers de línguas, serviços de localização e consultoria linguística, com estrutura clara que ajuda na conversão e visibilidade de novos clientes através do website. O website pode ser usado para: empresas de tradução, Organizadores de eventos, Serviços de notáriados, empresas de marketing e instituições académicas.
 
